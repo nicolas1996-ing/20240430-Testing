@@ -1,6 +1,6 @@
 const sum = require("./sum");
 
-fdescribe("test en la función sum", () => {
+describe("test en la función sum", () => {
   test("adds 1 + 2 to equal 3", () => {
     const result = sum(1, 2);
     expect(result).toBe(3);
