@@ -16,3 +16,7 @@ matchers
         - vectores: si un array contiene un elemento en particular 
         - excepciones
         - otros
+
+git add . 
+git commit -m "message"
+git push origin main
