@@ -14,4 +14,5 @@ matchers
         - veracidad: valor null, no null, undefined, verdadero, falso 
         - cadenas texto 
         - vectores: si un array contiene un elemento en particular 
-        - excepciones 
+        - excepciones
+        - otros
